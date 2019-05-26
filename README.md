@@ -7,7 +7,7 @@ Create a free account at [mongoDB](https://cloud.mongodb.com/user#/atlas/registe
 
 ## Quick Start
 ```
-1. Clone or donwload the repo 
+1. Clone or download the repo 
 
 2. Replace the  'process.env.DB_STRING' in app.js with your connection string from mongoDB
 
