@@ -4,8 +4,7 @@
   "description": "todo list api",
   "main": "app.js",
   "scripts": {
-    "test": "node app",
-    "dev": "nodemon app"
+    "start": "nodemon app.js"
   },
   "author": "Mmontsheng Maoto",
   "license": "MIT",
